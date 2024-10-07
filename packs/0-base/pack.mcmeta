@@ -2,7 +2,7 @@
     "pack": {
         "pack_format": 1,
         "name": "Server Resourcepack",
-        "description": "god damn it!",
+        "description": "god damn it",
         "supported_formats": {
             "min_inclusive": 1,
             "max_inclusive": 99
