@@ -2,7 +2,7 @@
     "pack": {
         "pack_format": 1,
         "name": "Server",
-        "description": "Test 123",
+        "description": "El Gato Crazy is so crazy!",
         "supported_formats": {
             "min_inclusive": 1,
             "max_inclusive": 99
