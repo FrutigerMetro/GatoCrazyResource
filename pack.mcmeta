@@ -2,7 +2,7 @@
     "pack": {
         "pack_format": 1,
         "name": "Server",
-        "description": "Big Feline",
+        "description": "BIG Feline",
         "supported_formats": {
             "min_inclusive": 1,
             "max_inclusive": 99
