@@ -1,8 +1,8 @@
 {
     "pack": {
         "pack_format": 1,
-        "name": "Server Resourcepack",
-        "description": "Thank you for your contribution to the server!!",
+        "name": "Server",
+        "description": "Thank you for your contribution to the server! :D",
         "supported_formats": {
             "min_inclusive": 1,
             "max_inclusive": 99
