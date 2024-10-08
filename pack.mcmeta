@@ -1,11 +1,10 @@
 {
-    "pack": {
-        "pack_format": 1,
-        "name": "Server",
-        "description": "BIG Feline",
-        "supported_formats": {
-            "min_inclusive": 1,
-            "max_inclusive": 99
-        }
+  "pack": {
+    "pack_format": 34,
+    "description": "The only resource pack you should FW.",
+    "supported_formats": {
+      "min_inclusive": 30,
+      "max_inclusive": 99
     }
+  }
 }
