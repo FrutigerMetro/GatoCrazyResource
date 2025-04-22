@@ -12,7 +12,7 @@
           "when": "Tony's Sword",
           "model": {
             "type": "minecraft:model",
-            "model": "item/tonysword"
+            "model": "item/rainbow_sword"
           }
         }
       ],
